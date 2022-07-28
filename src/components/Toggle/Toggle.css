@@ -6,15 +6,26 @@
     position: relative;
     padding: 2px;
     cursor: pointer;
+   
 
 }
 .toggle>*{
     width: 1rem;
     height: 1rem;
     color: var(--orange);
+    
 }
 .t-button{
     border-radius: 100%;
     background: var(--orange);
     position: absolute;
+}
+@media screen and (max-width:500px) {
+
+    .toggle{
+        position: fixed;
+        left: 30%;
+        z-index: 100;
+    }
+    
 }
