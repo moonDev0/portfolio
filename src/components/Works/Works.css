@@ -111,6 +111,9 @@
   left: 18rem;
   top: 8rem;
 }
+.w-mainCircle > :nth-child(3) img{
+  transform: scale(0.05) !important ;
+}
 
 @media screen and (max-width: 480px) {
   .works {
@@ -123,7 +126,7 @@
   .w-right {
     display: flex;
     align-items: flex-start;
-    justify-content:start;
+    justify-content:flex-start;
     transform: scale(0.7);
   }
   .w-mainCircle{
