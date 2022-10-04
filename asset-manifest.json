@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f3a1c7d9.css",
-    "main.js": "/portfolio/static/js/main.e055df63.js",
-    "static/media/halalride.apk": "/portfolio/static/media/halalride.c5acc95c028d6ae0a482.apk",
+    "main.js": "/portfolio/static/js/main.00e80a70.js",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/profile1.jpg": "/portfolio/static/media/profile1.4e501ab7e989d705690f.jpg",
     "static/media/boy.png": "/portfolio/static/media/boy.aabc47d5be99108a09f5.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.7d305d8ff5633e1df0b9.pdf",
     "static/media/sidebar.png": "/portfolio/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/musicapp.png": "/portfolio/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/glassesimoji.png": "/portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
@@ -24,10 +24,10 @@
     "static/media/glasses.png": "/portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/portfolio/index.html",
     "main.f3a1c7d9.css.map": "/portfolio/static/css/main.f3a1c7d9.css.map",
-    "main.e055df63.js.map": "/portfolio/static/js/main.e055df63.js.map"
+    "main.00e80a70.js.map": "/portfolio/static/js/main.00e80a70.js.map"
   },
   "entrypoints": [
     "static/css/main.f3a1c7d9.css",
-    "static/js/main.e055df63.js"
+    "static/js/main.00e80a70.js"
   ]
 }
