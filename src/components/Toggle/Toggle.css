@@ -22,10 +22,10 @@
 }
 @media screen and (max-width:500px) {
 
-    .toggle{
+    /* .toggle{
         position: fixed;
         left: 30%;
         z-index: 100;
     }
-    
+     */
 }
